@@ -1813,3 +1813,4 @@ env/Scripts/pip3.exe
 env/Scripts/python.exe
 env/Scripts/pythonw.exe
 users.db
+test.py

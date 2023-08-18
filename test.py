@@ -143,3 +143,10 @@
 
 
 # getText()
+
+# import math
+
+# print(math.ceil(7.2))
+
+num = 1.1
+print(num.is_integer())
